@@ -11,7 +11,8 @@
 
 <script>
 import SimpleMDE from 'simplemde';
-import marked from 'marked';
+// import marked from 'marked';
+import { marked } from 'marked'
 
 export default {
   name: 'vue-simplemde',
